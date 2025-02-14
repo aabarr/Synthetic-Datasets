@@ -1,0 +1,27 @@
+Generate a table with 6 columns and 159 rows with the following properties:
+
+Column 1 = “X1”: mean = 398.326, standard deviation = 357.978, range = 0 to 1650
+Column 2 = “X2”: mean = 8.971, standard deviation = 4.286, range = 1.728 to 18.957
+Column 3 = “X3”: mean = 4.417, standard deviation = 1.686, range = 1.048 to 8.142
+Column 4 = “X4”: mean = 26.247, standard deviation = 9.996, range = 7.5 to 59.0
+Column 5 = “X5”: mean = 28.416, standard deviation = 10.716, range = 8.4 to 63.4
+Column 6 = “X6”: mean = 31.227, standard deviation = 11.610, range = 8.8 to 68.0
+
+With correlations: 
+Columns 2 and 1 (r = 0.72)
+Columns 3 and 1 (r = 0.89)
+Columns 3 and 2 (r = 0.79)
+Columns 4 and 1 (r = 0.92)
+Columns 4 and 2 (r = 0.63)
+Columns 4 and 3 (r = 0.87)
+Columns 5 and 1 (r = 0.92)
+Columns 5 and 2 (r = 0.64)
+Columns 5 and 3 (r = 0.87)
+Columns 5 and 4 (r = 1)
+Columns 6 and 1 (r = 0.92)
+Columns 6 and 2 (r = 0.70)
+Columns 6 and 3 (r = 0.88)
+Columns 6 and 4 (r = 0.99)
+Columns 6 and 5 (r = 0.99)
+
+All numbers in the table must be positive. Re-check the data to ensure that all conditions are met before displaying. Every condition must be met exactly. Do not output until exactly correct. Provide the data in a downloadable Excel file.
