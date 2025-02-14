@@ -1,0 +1,16 @@
+Generate a table with 4 columns and 150 rows with the following properties:
+
+Column 1 = “X1”: with mean = 5.843, standard deviation = 0.828, range = 4.3 to 7.9
+Column 2 = “X2”: with mean = 3.057, standard deviation = 0.436, range = 2.0 to 4.4
+Column 3 = “X3”: with mean = 3.758, standard deviation = 1.765, range = 1.0 to 6.9
+Column 4 = “X4”: with mean = 1.199, standard deviation = 0.762, range = 0.1 to 2.5
+
+With correlations: 
+Columns 2 and 1 (r = -0.12)
+Columns 3 and 1 (r = 0.87)
+Columns 3 and 2 (r = -0.43)
+Columns 4 and 1 (r = 0.82)
+Columns 4 and 2 (r = -0.37)
+Columns 4 and 3 (r = 0.96)
+
+All numbers in the table must be positive. Re-check the data to ensure that all conditions are met before displaying. Every condition must be met exactly. Do not output until exactly correct. Provide the data in a downloadable Excel file.
